@@ -6,7 +6,7 @@
 }
 
 .content{
-    min-height: 4200px;
+    min-height: 500px;
 }
 
 .banner{
@@ -343,7 +343,8 @@ margin-left: 110px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 35vh;
+    height: 25vh;
+    width: 100%;
 }
     
 .bottom-logo{
@@ -370,7 +371,28 @@ margin-left: 110px;
 }
 
 .bottom .sitemap li{
-    margin-right: 1100px;
+    margin-right: 800px;
     text-decoration: none;
+}
 
+.Subscriber {
+    margin-right: 20px;
+}
+.form {
+    height: 50px;
+    padding: 50px;
+}
+#submit {
+    background-color: #F6B400;
+    border-style: none;
+    padding: 8px;
+}
+#fname {
+    padding: 8px;
+}
+
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
 }
