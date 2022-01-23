@@ -6,7 +6,7 @@
 }
 
 .content{
-    min-height: 5000px;
+    min-height: 4200px;
 }
 
 .banner{
@@ -316,5 +316,24 @@ margin-left: 110px;
 }
 
 /* styling the contact section */
+.mobile {
+    height: 80vh;
+    display: flex;
+    padding: 100px;
+    background-color: #F6B400;
+}
+.apps-msg h2{
+    font-weight: 5em;
+    text-align: center;
+}
 
+.phone1{
+    padding: 40px;
+    margin-left: 450px;
+}
+
+.phone2{
+    margin-left: 30px;
+    padding: 40px;
+}
 
