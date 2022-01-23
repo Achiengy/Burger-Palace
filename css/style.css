@@ -117,7 +117,7 @@ margin-left: 110px;
     padding-right: 20px;
 }
 
-/* elements in the second section */
+/* styling elements in the second section */
 .objectives{
     height: 80vh;
     background: whitesmoke;
@@ -155,9 +155,24 @@ margin-left: 110px;
     color: rgb(114,69,69);
 }
 
-
 .row .row2 p{
     color: black;
     text-align: center;
-    
 }
+
+/* styling the menu section */
+.menu{
+    height: 150vh;
+    display: inline-block;
+}
+
+.menu .text{
+    color: black;
+    text-decoration: underline 7px rgb(255,166,0);
+    align-items: center;
+}
+
+.text span{
+    color: rgb(255,166,0);
+}
+
