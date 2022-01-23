@@ -169,7 +169,7 @@ margin-left: 110px;
 .menu .text{
     color: black;
     text-decoration: underline 7px rgb(255,166,0);
-    align-items: center;
+    text-align: center;
 }
 
 .text span{
