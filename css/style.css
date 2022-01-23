@@ -43,13 +43,17 @@
 header .navigation li{
     position: relative;
     display: flex;
-    margin-right: 97px;
+    margin-right: 160px;
 }
 
 header .navigation li a{
     text-decoration: none;
     color: black;
     font-weight: bold;
+}
+
+header .navigation .home{
+    text-decoration: underline 8px solid #ff7300;
 }
 
 header .logo-pic{
@@ -112,3 +116,6 @@ margin-left: 110px;
     padding: top 20%;
     padding-right: 20px;
 }
+
+/* elements in the second section */
+
