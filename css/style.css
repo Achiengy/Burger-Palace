@@ -118,4 +118,46 @@ margin-left: 110px;
 }
 
 /* elements in the second section */
+.objectives{
+    height: 80vh;
+    background: whitesmoke;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 60px;
+    
+}
 
+.objectives .row{
+    border: 1.5px solid rgb(114,69,69);
+    text-align: center;
+    width: 16%;
+    height: 45%;
+    align-content: center;
+    margin-top: 14%;
+    border-radius: 10px;
+}
+.row h2{
+    color: rgb(114,69,69);
+
+}
+
+.objectives .row2{
+    border: 1.5px solid rgb(114,69,69);
+    border-radius: 20px;
+    width: 20%;
+    height: 60%;
+    margin-top: 10%;
+    text-align: center;
+}
+
+.row2 h2{
+    color: rgb(114,69,69);
+}
+
+
+.row .row2 p{
+    color: black;
+    text-align: center;
+    
+}
