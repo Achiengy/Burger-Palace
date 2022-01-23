@@ -162,7 +162,7 @@ margin-left: 110px;
 
 /* styling the menu section */
 .menu{
-    height: 150vh;
+    height: 140vh;
     display: inline-block;
 }
 
@@ -254,4 +254,8 @@ margin-left: 110px;
 }
 
 /* styling the double decker section */
+.poster{
+    height: 120vh;
+    background: whitesmoke;
+}
 
