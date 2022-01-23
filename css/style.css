@@ -69,11 +69,11 @@ header .logo{
     font-family: "Lobster";
     color: rgb(0,0,0);
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 2em;
      padding: 30px;
-    margin-left: 100px;
-    margin-top: 20px;
+    margin-right: 95px;
+    margin-bottom: 20px
 }
 
 header .logo span{
@@ -337,3 +337,42 @@ margin-left: 110px;
     padding: 40px;
 }
 
+/* styling elements in the bottom part */
+.bottom {
+    background-color: rgb(239, 253, 255);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 35vh;
+}
+    
+.bottom-logo{
+    font-family: "Lobster";
+    color: rgb(0,0,0);
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 2em;
+     padding: 10px;
+    margin-left: -20px;
+    margin-top: 5px;
+}
+
+.bottom-logo span{
+    color: rgb(255,166,0);
+}
+
+.object1 {
+    display: flex;
+    font-family: "helvetica";
+    margin: 0%;
+    margin-right: 60px;
+    align-items: center;
+}
+
+.sitemap {
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    font-family: "helvetica";
+    margin-right: 60px;
+}
