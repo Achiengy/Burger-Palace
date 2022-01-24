@@ -1,5 +1,5 @@
 
-**Burger palace**
+**Burger Palace**
 
 **Author**
 Achiengy
