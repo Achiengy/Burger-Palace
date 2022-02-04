@@ -33,7 +33,7 @@
 
 MIT License
 
-Copyright (c) [2019] [Hope Pete]
+Copyright (c) [2022] [Hope Pete]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -56,6 +56,6 @@ SOFTWARE.
 
 ## Authors Info
 
-Linked - []
+Linked - [Hope Pete](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3Bm11EDIJVSQu29ovQ2888fA%3D%3D)
 
 
